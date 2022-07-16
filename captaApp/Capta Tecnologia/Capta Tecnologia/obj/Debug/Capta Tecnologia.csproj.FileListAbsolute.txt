@@ -1,0 +1,18 @@
+C:\Users\limup\OneDrive\2- Fontes\Capta\captaApp\Capta Tecnologia\Capta Tecnologia\bin\Debug\Capta Tecnologia.exe.config
+C:\Users\limup\OneDrive\2- Fontes\Capta\captaApp\Capta Tecnologia\Capta Tecnologia\bin\Debug\Capta Tecnologia.exe
+C:\Users\limup\OneDrive\2- Fontes\Capta\captaApp\Capta Tecnologia\Capta Tecnologia\bin\Debug\Capta Tecnologia.pdb
+C:\Users\limup\OneDrive\2- Fontes\Capta\captaApp\Capta Tecnologia\Capta Tecnologia\obj\Debug\Capta Tecnologia.csproj.AssemblyReference.cache
+C:\Users\limup\OneDrive\2- Fontes\Capta\captaApp\Capta Tecnologia\Capta Tecnologia\obj\Debug\Capta Tecnologia.csproj.SuggestedBindingRedirects.cache
+C:\Users\limup\OneDrive\2- Fontes\Capta\captaApp\Capta Tecnologia\Capta Tecnologia\obj\Debug\Capta_Tecnologia.frmCapta.resources
+C:\Users\limup\OneDrive\2- Fontes\Capta\captaApp\Capta Tecnologia\Capta Tecnologia\obj\Debug\Capta_Tecnologia.Properties.Resources.resources
+C:\Users\limup\OneDrive\2- Fontes\Capta\captaApp\Capta Tecnologia\Capta Tecnologia\obj\Debug\Capta Tecnologia.csproj.GenerateResource.cache
+C:\Users\limup\OneDrive\2- Fontes\Capta\captaApp\Capta Tecnologia\Capta Tecnologia\obj\Debug\Capta Tecnologia.csproj.CoreCompileInputs.cache
+C:\Users\limup\OneDrive\2- Fontes\Capta\captaApp\Capta Tecnologia\Capta Tecnologia\obj\Debug\Capta Tecnologia.exe
+C:\Users\limup\OneDrive\2- Fontes\Capta\captaApp\Capta Tecnologia\Capta Tecnologia\obj\Debug\Capta Tecnologia.pdb
+C:\Users\limup\OneDrive\2- Fontes\Capta\captaApp\Capta Tecnologia\Capta Tecnologia\obj\Debug\Capta_Tecnologia.frmCadastroCliente.resources
+C:\Users\limup\OneDrive\2- Fontes\Capta\captaApp\Capta Tecnologia\Capta Tecnologia\bin\Debug\Newtonsoft.Json.dll
+C:\Users\limup\OneDrive\2- Fontes\Capta\captaApp\Capta Tecnologia\Capta Tecnologia\bin\Debug\Newtonsoft.Json.xml
+C:\Users\limup\OneDrive\2- Fontes\Capta\captaApp\Capta Tecnologia\Capta Tecnologia\obj\Debug\Capta Tecnologia.csproj.CopyComplete
+C:\Users\limup\OneDrive\2- Fontes\Capta\captaApp\Capta Tecnologia\Capta Tecnologia\bin\Debug\Caelum.Stella.CSharp.dll
+C:\Users\limup\OneDrive\2- Fontes\Capta\captaApp\Capta Tecnologia\Capta Tecnologia\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\limup\OneDrive\2- Fontes\Capta\captaApp\Capta Tecnologia\Capta Tecnologia\bin\Debug\System.Diagnostics.DiagnosticSource.xml

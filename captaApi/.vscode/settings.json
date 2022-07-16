@@ -1,0 +1,20 @@
+{
+    "sqltools.connections": [
+        {
+            "mssqlOptions": {
+                "appName": "SQLTools",
+                "useUTC": true,
+                "encrypt": true
+            },
+            "previewLimit": 50,
+            "server": "vestapp.database.windows.net",
+            "port": 1433,
+            "driver": "MSSQL",
+            "name": "Default",
+            "password": "jAk2j8l1",
+            "username": "vestapp-dev",
+            "database": "master",
+            "connectionTimeout": 30
+        }
+    ]
+}
